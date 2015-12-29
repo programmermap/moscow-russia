@@ -1,10 +1,10 @@
-Moscow, Russia
+Awesome Moscow, Russia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Moscow, Russia. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Moscow, Russia. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Moscow, Russia
+Top 15 programmers in Moscow, Russia
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Moscow, Russia.
+These are the 15 most influential programmers in Moscow, Russia. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Sergey Chikuyonok [@sergeche](https://github.com/sergeche) (34)
 2. Grigory Bakunov [@bobuk](https://github.com/bobuk) (33)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Yaroslav Markin [@yaroslav](https://github.com/yaroslav) (20)
 15. Sokolov Yura [@funny-falcon](https://github.com/funny-falcon) (20)
 
-You can find the comprehensive statistics at the page for [Moscow, Russia](http://programmermap.com/area/moscow-russia) at programmermap.com.
+You can find comprehensive statistics at the page for [Moscow, Russia](http://programmermap.com/area/moscow-russia) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [x-editable](http://vitalets.github.io/x-editable) (4357)
+2. [emmet-sublime](http://emmet.io) (3819)
+3. [python-mode](https://github.com/klen/python-mode) (2497)
+4. [nginx-rtmp-module](http://nginx-rtmp.blogspot.com) (2001)
+5. [angular-xeditable](http://vitalets.github.io/angular-xeditable) (1172)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
